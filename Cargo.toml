@@ -1,0 +1,9 @@
+[package]
+name = "conscale"
+version = "0.0.0"
+description = ""
+authors = ["Yuki Kodama<endflow.net@gmail.com>"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
